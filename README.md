@@ -20,7 +20,7 @@ Big Data Analytics Track | GPA: 3.9/4.0
 
 ### Graduate Coursework
 
-**Spring 2025**
+**Spring 2026**
 - INFSCI 2440 · Artificial Intelligence
 - INFSCI 2300 · Human Information Processing
 - INFSCI 2150 · Information Security & Privacy
